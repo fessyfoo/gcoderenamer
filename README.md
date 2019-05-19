@@ -6,7 +6,7 @@ and rename that gcode file with the timing info
 
 could be extended to grab other metadata from in the gcode file.
 
-Note that [PrusaSlicer/Slic3r PE][1] as of 1.42 (alpha) will 
+Note that [PrusaSlicer/Slic3r PE][1] as of 1.42 (alpha)
 [supports new template variables in the output filename][2] which 
 let you do this right from the start.
 
